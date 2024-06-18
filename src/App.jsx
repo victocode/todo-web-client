@@ -33,6 +33,7 @@ function App() {
 
   return (
    <div>
+   {/* new change */}
     <Hero />
    </div>
   );
