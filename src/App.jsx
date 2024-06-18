@@ -35,6 +35,7 @@ function App() {
    <div>
    {/* new change */}
     <Hero />
+    <h1>Footer</h1>
    </div>
   );
 }
